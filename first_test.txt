@@ -1,5 +1,7 @@
-ID
-Summary
-Preconditions
-Steps
+ID :  1
+Summary :Check Header tabs
+Preconditions: Открыт сайт https://zara-ashi.github.io/trip-tajikistan/
+Steps   1) Кликнуть раздел Главная      Expected result : Отображается раздел Главная 
+        2) Кликнуть раздел Развлечения  Expected result : Отображается раздел Топ 6 развлекательных центров
+        3) Кликнуть раздел Еда          Expected result : Отображается раздел Еда 
 Expected result
